@@ -1,0 +1,12 @@
+{"Item":{"counterName":{"S":"DeviceMachineMapFlat"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"Devices"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"Locations"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"DeviceDetails"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"Projects"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"Materials"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"LocationDetails"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"AuditLog"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"ProductionProcess"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"IotLastSeq"},"currentValue":{"S":"2181711100000000014305864631"}}}
+{"Item":{"counterName":{"S":"MachineDetails"},"currentValue":{"N":"0"}}}
+{"Item":{"counterName":{"S":"Machines"},"currentValue":{"N":"0"}}}
